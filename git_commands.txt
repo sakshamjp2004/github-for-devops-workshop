@@ -1,0 +1,6 @@
+git add file_name
+git add . =all the files 
+git status
+commit -m "Added testing files"
+rm file_name =to delete the file
+git restore file_name = to restore version controlled file
