@@ -10,6 +10,7 @@ git remote -v = check remote links
 git remote set-url origin https://github.com/user/new-repo.git
 =to add new url to a nickname
 git push -u origin master
-git clone URL
+git clone URL = to copy entire repo from github into local
+git pull origin master = to copy chnages from github from github into local
 This is some new Changes
 
