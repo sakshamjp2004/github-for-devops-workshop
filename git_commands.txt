@@ -1,6 +1,14 @@
 git add file_name
 git add . =all the files 
 git status
-commit -m "Added testing files"
+git commit -m "Added testing files"
 rm file_name =to delete the file
 git restore file_name = to restore version controlled file
+git remote add (alias)    om/USERNAME/REPO.git =
+ this add remote is mainly used to create an alias / nickname for a repository URL.
+git remote -v = check remote links
+git remote set-url origin https://github.com/user/new-repo.git
+=to add new url to a nickname
+git push -u origin master
+git clone URL
+
