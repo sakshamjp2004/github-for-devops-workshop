@@ -11,4 +11,5 @@ git remote set-url origin https://github.com/user/new-repo.git
 =to add new url to a nickname
 git push -u origin master
 git clone URL
+This is some new Changes
 
